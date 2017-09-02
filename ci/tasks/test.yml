@@ -15,4 +15,3 @@ outputs:
 
 run:
   path: attendee-service-source/ci/tasks/test.sh
-
